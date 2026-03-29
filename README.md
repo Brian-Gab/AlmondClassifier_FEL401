@@ -2,7 +2,7 @@
 Final project for FEL401 - Machine Learning.
 
 
-# =====================================
+# ========================================================
 # MACHINE LEARNING GROUP ACTIVITY
 ## End-to-End Machine Learning Using a Real-World Dirty Dataset from Kaggle
 
@@ -74,7 +74,7 @@ Find a dirty dataset from Kaggle and build a machine learning project using a Ju
 - Notebook Quality – 5 pts 
 - Presentation – 5 pts
 
-# =====================================
+# ========================================================
 # Information about this project
 
 ## General Details
