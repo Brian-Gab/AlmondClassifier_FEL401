@@ -108,7 +108,7 @@ The features are extracted using Image processing techniques following these ste
 | Type	|   Almond Type |
 
 ## Technicals
-The training model used for this program is the Logistic Regression under Classification since it is more suitable for non-numerical prediction. 
+The training models used for this program is the Logistic Regression, Decision Tree, K-Nearest Neighbors, and Random Forest all of which is used under Classification version of sklearn library since it is more suitable for non-numerical prediction. 
 The dataset is divided into 80% Training and 20% Testing Data.
 
-to be continued...
+The results are evaluated using metrics also found in sklearn library where the accuracy, confusion matrix, and the classification reports are used. This way, we can decide which model performs best in terms of accuracy in classifying the almonds based only from the features given in the dataset.
